@@ -12,14 +12,11 @@ namespace Minecraft_test.Entity
 {
     class Entity
     {
-        public Vector3 position;
-        public Vector3 rotation;
-        public Vector3 scale = new Vector3(1);
+        public Vector3 position= new Vector3(0,0,0);
+        public Vector3 rotation = new Vector3(0, 0, 0);
+        public Vector3 scale = new Vector3(1,1,1);
 
-        public Entity(float x, float y, float z)
-        {
-            position = new Vector3(x, y, z);
-        }
+ 
         public virtual void Update() { }
 
         public void Draw()

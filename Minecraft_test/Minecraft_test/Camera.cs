@@ -27,7 +27,7 @@ namespace Minecraft_test
 
         public Camera()
         {
-            position = new Vector3(0, 0, 5);
+            position = new Vector3(0, 0, 0);
 
             view = Matrix.CreateLookAt(position, Vector3.Zero, Vector3.Up);
             projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.ToRadians(45.0f), Basic.gDevice.Viewport.AspectRatio, 0.1f, 1000.0f);

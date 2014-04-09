@@ -21,10 +21,11 @@ namespace Minecraft_test
             vertexBuffer.SetData(vertexData.ToArray());
     }
 
-        public void Draw(Matrix world)
+        public virtual void preRender(){}
+        public void Render(Matrix world)
         {
-            GameScreen.effect.View = GameScreen.camera.view;
-            GameScreen.effect.Projection = GameScreen.camera.projection;
+            preRender();
+        
             GameScreen.effect.World = world;
 
             GameScreen.effect.CurrentTechnique.Passes[0].Apply();//effect anwenden, aktualisieren
@@ -32,6 +33,7 @@ namespace Minecraft_test
             Basic.gDevice.SetVertexBuffer(vertexBuffer);
             Basic.gDevice.DrawPrimitives(PrimitiveType.TriangleList, 0, vertexBuffer.VertexCount / 3); // da Dreiecke aus 3 ecken bestehen^^ 
         }
-        public static Model FloorModel = new FloorFace();
+            public static Model floor = new FloorFace();
+           // public static Model block = new Block();
     }
 }

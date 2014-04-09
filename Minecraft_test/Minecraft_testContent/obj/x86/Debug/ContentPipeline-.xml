@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Documents\Visual Studio 2010\Projects\Minecraft_test\Minecraft_test\Minecraft_test\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2014-04-08T13:37:07.171093+02:00</Time>
+      <Output>C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-04-08T18:58:53+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +17,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\user\Documents\Visual Studio 2010\Projects\Minecraft_test\Minecraft_test\Minecraft_testContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\user\Documents\Visual Studio 2010\Projects\Minecraft_test\Minecraft_test\Minecraft_test\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\user\Documents\Visual Studio 2010\Projects\Minecraft_test\Minecraft_test\Minecraft_testContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\user\Documents\Visual Studio 2010\Projects\Minecraft_test\Minecraft_test\Minecraft_test\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_testContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_testContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

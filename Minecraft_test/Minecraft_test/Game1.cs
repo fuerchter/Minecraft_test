@@ -53,7 +53,7 @@ namespace Minecraft_test
         
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.Black);
+            GraphicsDevice.Clear(Color.DeepSkyBlue);
             Basic.Render();
             
             base.Draw(gameTime);

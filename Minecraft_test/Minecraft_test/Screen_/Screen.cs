@@ -8,7 +8,7 @@ namespace Minecraft_test
     class Screen
     {
 
-        public virtual void Init() { } //ladem
+        public virtual void Init() { } //laden
         public virtual void Update() { }
         public virtual void Render() { }
     }

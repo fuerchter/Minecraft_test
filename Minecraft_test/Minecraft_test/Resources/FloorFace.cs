@@ -14,13 +14,13 @@ namespace Minecraft_test
     {
         public FloorFace() //2 Dreiecke
         {
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, 0.5f),  Vector3.Up, new Vector2(0,1)));
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, -0.5f),  Vector3.Up, new Vector2(0,0)));
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f, -0.5f, -0.5f),  Vector3.Up, new Vector2(1,0)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, 0.5f), new Vector3(0.0f, 1.0f, 0.0f), new Vector2(0.0f, 1.0f)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, -0.5f),new Vector3(0.0f, 1.0f, 0.0f)  , new Vector2(0.0f,0.0f)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f, -0.5f, -0.5f),new Vector3(0.0f, 1.0f, 0.0f)  , new Vector2(1.0f,0.0f)));
 
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f, -0.5f, -0.5f), Vector3.Up, new Vector2(1,0)));
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f,  -0.5f, 0.5f), Vector3.Up, new Vector2(1,1)));
-            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, 0.5f), Vector3.Up, new Vector2(0,1)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f, -0.5f, -0.5f),new Vector3(0.0f, 1.0f, 0.0f) , new Vector2(1.0f,0.0f)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3( 0.5f,  -0.5f, 0.5f),new Vector3(0.0f, 1.0f, 0.0f) , new Vector2(1.0f,1.0f)));
+            vertexData.Add(new VertexPositionNormalTexture(new Vector3(-0.5f, -0.5f, 0.5f),new Vector3(0.0f, 1.0f, 0.0f) , new Vector2(0.0f,1.0f)));
            
             SetUp();
           

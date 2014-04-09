@@ -11,3 +11,10 @@ C:\Users\fuerchter2\Desktop\Coding\Minecraft_test\Minecraft_test\Minecraft_test\
 C:\Users\fuerchter2\Desktop\Coding\Minecraft_test\Minecraft_test\Minecraft_test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\fuerchter2\Desktop\Coding\Minecraft_test\Minecraft_test\Minecraft_test\obj\x86\Debug\Minecraft_test.exe
 C:\Users\fuerchter2\Desktop\Coding\Minecraft_test\Minecraft_test\Minecraft_test\obj\x86\Debug\Minecraft_test.pdb
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\obj\x86\Debug\Minecraft_test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\obj\x86\Debug\Minecraft_test.exe
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\bin\x86\Debug\Content\Font.xnb
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\bin\x86\Debug\Minecraft_test.exe
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\bin\x86\Debug\Minecraft_test.pdb
+C:\Users\user\Desktop\Minecraft_test-master\Minecraft_test\Minecraft_test\obj\x86\Debug\Minecraft_test.pdb
